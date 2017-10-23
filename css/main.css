@@ -11,6 +11,7 @@
 
 body{
     font-family: sans-serif;
+    /* Aplicando el estilo de letra a todo el cuerpo*/
 }
 
 ul{
@@ -19,12 +20,18 @@ ul{
     margin: 0;
     padding: 0;
     width: 150px;
+    line-height: 26px;
 }
 
  li{
-    outline: 1px solid violet;
+    /*outline: 1px solid violet;*/
+    background: #f5f5f0;
  }
 
 a{
-    outline: 1px solid palevioletred;
+    /*outline: 1px solid palevioletred;*/
+    display: block;
+    text-decoration: none;
+    color: #000;
+    padding-left: 8px;
 }
