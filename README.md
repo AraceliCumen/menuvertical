@@ -1,4 +1,3 @@
-ECHO est� activado.
 
 # Proyecto Menú Vertical
 

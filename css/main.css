@@ -1,5 +1,3 @@
-ECHO est� activado.
-
 
 /*
     #f9a91a-->Laboratoria
@@ -11,3 +9,22 @@ ECHO est� activado.
 */
 
 
+body{
+    font-family: sans-serif;
+}
+
+ul{
+    outline: 1px solid green;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+}
+
+ li{
+    outline: 1px solid violet;
+ }
+
+a{
+    outline: 1px solid palevioletred;
+}
